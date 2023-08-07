@@ -7,7 +7,8 @@
 
 ⚒️ 스택 
 
-![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white), ![jsreaveal](https://img.shields.io/badge/ScrollReveal-FFCB36?style=for-the-badge&logo=ScrollReveal&logoColor=white)
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white),![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+, ![jsreaveal](https://img.shields.io/badge/ScrollReveal-FFCB36?style=for-the-badge&logo=ScrollReveal&logoColor=white)
 
 # 비츠 상품 상세 보기
 ![beats-monitor](https://github.com/oceanlee-seoul/Beats-Products-Landing-Responsive-Webpage/assets/108586797/b95ef5a3-368e-4489-baf3-72b7b956aa48)
